@@ -4,33 +4,29 @@ description: This page enlists some intended use cases for different communities
 
 # How will it be beneficial to me?
 
-Select the appropriate tab to understand how can Magnum help you:
+**For Students** 
 
-{% tabs %}
-{% tab title="For Students" %}
 Students can use Magnum to:
 
 1. Generate detailed step-by-step solutions \(with graphs\) in an animated video format that makes it easier to follow along and comprehend.
 2. Discover alternative ways to solve problems and learn how to provide extensive solutions in the correct Mathematical notation.
 3. Create cool video animations straight from simple LaTeX.
-{% endtab %}
 
-{% tab title="For Teachers" %}
+**For Teachers** 
+
 Teachers with varying levels of coding proficiency will find Magnum to be really helpful in generating video animations and accurate solutions for teaching in classroom and exploring new ways of solving and teaching various Math related problems and concepts. 
 
 This gets more importance especially in this time of a global pandemic when high importance is being given to online lectures. Teachers can use Magnum to generate very engrossing renders of their classroom lectures to make learning more fun and enjoyable to the students.
 
 Magnum will help in maintaining the accuracy of the concepts being taught and in the long run, can help in achieving independent and quality education for all. 
-{% endtab %}
 
-{% tab title="For Math lovers/ Professionals" %}
+**For Math lovers/ Professionals**  
+
 The things mentioned in the previous two tabs are applicable here too. 
 
 Apart from that, Magnum can handle and generate insights into very advanced and complicated topics too \(even those beyond university level\).
 
 This can help you brush up your coding skills too. Be it LaTeX or Python. You can also help in contributing to make Magnum better and help us in reaching our goal to make "Math more accessible and beautiful for all".
-{% endtab %}
-{% endtabs %}
 
 ### What can Magnum exactly give me?
 
