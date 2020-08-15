@@ -10,8 +10,8 @@ Magnum comes in a lot of flavors and is highly flexible. There are various compo
 
 To make the selection easy, we have sorted the possibilities in TWO parts. Please spend sometime choosing the right version as per your needs to make the experience smoother.
 
-{% tabs %}
-{% tab title="Magnum \(Full\)" %}
+**Magnum \(Full\)**
+
 [This](https://github.com/Magnum-Math/Magnum) is the full version of Magnum. You input a plain query in normal English and get a step-by-step video solution \(or graph- depending on your query\) generated automatically.   
   
 This sounds awesome right? But here's a small checklist of some tools to which you should have the access:
@@ -22,9 +22,10 @@ This sounds awesome right? But here's a small checklist of some tools to which y
 Mainly, if you think you can manage to get both of these, awesome! You can head over straight to our [official GItHub repository](https://github.com/Magnum-Math/Magnum), clone the repo and follow the instructions there.
 
 If you feel you can't get these keys right away, don't worry! We have set up the [Magnum Lite version](https://colab.research.google.com/drive/1Vhyx39pztGeVthKrBZZRGVroEYMwh4T5?usp=sharing) just for you. Switch to the next tab to get full information about that.
-{% endtab %}
 
-{% tab title="Magnum Lite" %}
+
+**Magnum Lite**
+
 [Magnum Lite](https://colab.research.google.com/drive/1Vhyx39pztGeVthKrBZZRGVroEYMwh4T5?usp=sharing) is a special version of Magnum made just for non-programmers, students, teachers and more.This version literally requires NO ACCESS KEYS! You don't need to install anything/ neither do you need to have advanced systems with GPUs and stuff.  
   
 With this, you can convert pre-formatted LaTeX code- straight to Manim animations! And all of that right from your browser!  
