@@ -28,6 +28,10 @@ We use:
 2. [OpenAI GPT 3](https://beta.openai.com/): To convert plain text to LaTeX and Python functions in phases.
 3. [MANIM](https://github.com/3b1b/manim): To animate and render the final solution as .mp4
 
+### Our Vision
+
+> #### Our [Founder](https://shreenabh.com/)'s vision is to make Math more beautiful and accessible for all.
+
 ### Is Magnum User-Friendly?
 
 Yes! Magnum is designed for non-programmers, so that you focus on math, and we make it beautiful for you. 
@@ -66,7 +70,7 @@ The core development was done by our team at Magnum:
 
 ### What can I do apart from using Magnum?
 
-You can reach out to the project head via [Instagram](https://instagram.com/golden_math_/) to discuss interesting ideas about improving Magnum/ Math in general. You can also share your valuable feedback/suggestions/difficulties via same Instagram channel. 
+You can reach out to the [Founder](https://shreenabh.com/) via his [Instagram](https://instagram.com/golden_math_/) to discuss interesting ideas about improving Magnum/ Math in general. You can also share your valuable feedback/suggestions/difficulties via same Instagram channel. 
 
 If you have custom/batch requirements, for e.g., you want to create an entire curriculum using Magnum animations, feel free to drop an email to: magnum@shreenabh.com !
 
