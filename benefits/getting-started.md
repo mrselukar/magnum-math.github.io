@@ -59,8 +59,7 @@ We made this modification to the standard LaTeX files to save you from a lot of 
 Once your latex.txt file is ready, head over straight to the [Official Magnum Lite Playground](https://colab.research.google.com/drive/1Vhyx39pztGeVthKrBZZRGVroEYMwh4T5?usp=sharing) and have fun!
 
 P.S.: Note the two dots at the end? We recommend using it because it will act like an anchor to ensure the last step stays on the screen for a longer time.
-{% endtab %}
-{% endtabs %}
+
 
 Before you start using Magnum/ Magnum Lite, we recommend having a look at the [Demo videos](https://drive.google.com/drive/folders/1aZdhZZl6Y4Bw81g0qXY7lkyd-OEFVTAn?usp=sharing) \(contributed by the community\). Have fun!
 
